@@ -61,7 +61,6 @@
 
 ### Toyyib Omobolaji Bello
 
-# 👤 Author1
 
 ### GitHub: https://github.com/Simpleshaikh1
 
@@ -80,12 +79,12 @@ Contributions, issues, and feature requests are welcome!
 
 # ⭐️ Show your support
 
+## If you like this project, kindly support this project
+
 
 # 🙏 Acknowledgments
 
 ## I would like to thank Microverse and my code reviewer for making me a better programmer
-
-
 
 
 📝 License
