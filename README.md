@@ -81,11 +81,10 @@
 
 ## If you like this project, kindly support this project
 
+
 # 🙏 Acknowledgments
 
 ## I would like to thank Microverse and my code reviewer for making me a better programmer
-
-
 
 
 📝 License
