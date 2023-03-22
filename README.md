@@ -86,7 +86,5 @@
 ## I would like to thank Microverse and my code reviewer for making me a better programmer
 
 
-
-
 📝 License
 This project is MIT licensed.
